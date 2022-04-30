@@ -1,5 +1,3 @@
-A purpose based NLP chatbot. 
-Used libraries : Numpy, Scikit-learn, Pandas
 
 Instructions to run:
 Keep all the files in a folder.
