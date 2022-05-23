@@ -1,5 +1,6 @@
 ![dataset to dataframe and vectorization](https://user-images.githubusercontent.com/61645942/169852857-6a468edb-3402-47e2-8470-1543d756188b.png)
-![do you dream](https://user-images.githubusercontent.com/61645942/169852885-f19c1734-fded-4af9-adfb-5af322511b6c.png)
+![Picture1](https://user-images.githubusercontent.com/61645942/169854811-ba7b4116-d96e-48b0-ae5b-95628f85f32f.png)
+
 
 **Instructions to run:**
 1. Keep all the files in a folder.
